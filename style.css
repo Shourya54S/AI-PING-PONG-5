@@ -1,0 +1,66 @@
+
+.heading
+{
+width: 100%;
+text-align: left;
+}
+.heading h3{
+    text-align: center;
+    font-size:xx-large;
+    padding:10px;
+    width:100%;
+
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+}
+
+#start ,#status, #restart
+{
+font-size: 22px;
+}
+
+.modal-dialog
+{
+    width: 70%;
+}
+.modal-body
+{
+    text-align: left;
+    font-size: 20px;
+}
+h4
+{
+   background-color: skyblue;
+   color:black;
+   line-height: 2;
+}
+canvas 
+  {
+      border:3px solid white;
+      border-radius: 20px;
+      box-shadow:  15px 15px 15px red;
+  }
+#heading{
+text-align:center;    
+}
+#top{
+background:orange;  
+width:95%; 
+height:73px; 
+text-align:center;
+padding-top:0.1px;
+border-style:solid;
+border-width:5px;
+border-radius:10px;
+border-color:red;
+}
+body{
+border-style:solid;
+border-width:7px;
+border-radius:10px;
+border-color:white;
+padding:10px;    
+}
